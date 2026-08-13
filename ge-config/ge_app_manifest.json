@@ -1,0 +1,15 @@
+{
+  "name": "projects/sample-project/locations/global/collections/default_collection/engines/gemini-enterprise-app-solution-test",
+  "displayName": "gemini-enterprise-app-solution-test",
+  "solutionType": "SOLUTION_TYPE_CHAT",
+  "industryVertical": "GENERIC",
+  "appType": "APP_TYPE_INDEPENDENT",
+  "chatEngineConfig": {
+    "agentCreationConfig": {
+      "business": "Gemini Enterprise Solution Architecture",
+      "defaultLanguageCode": "en"
+    }
+  },
+  "createTime": "2026-08-13T05:00:00Z",
+  "updateTime": "2026-08-13T05:00:00Z"
+}
